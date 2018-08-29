@@ -1,10 +1,10 @@
-package chen.practice;
+package chen.practiceA;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class NumberA_DoubleSum {
+public class ATwoSum {
 
 	public static void main(String[] args){
 		System.out.println("  hello world !");
