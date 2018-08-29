@@ -39,6 +39,7 @@ public class PlusTwoNumber {
 
 	/**特别注意：加和最后形成的结果就是最终结果，不需要再次颠倒顺序 **/
 
+
 	public static ListNode plusTwoNumber(ListNode nodeA , ListNode nodeB){
 		ListNode result = new ListNode(0); // 设置哑点
 		ListNode current = result;
