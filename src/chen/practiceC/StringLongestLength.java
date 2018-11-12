@@ -3,10 +3,10 @@ package chen.practiceC;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LongestLengthOfSubString {
+public class StringLongestLength {
 
 	public static void main(String[] args){
-		String string = null ;
+		String string = "afsafsdd" ;
 		Integer result = lengthOfLongestSubString(string);
 		System.out.println("  @@ lengthOfLongestSubString : " + result);
 	}
